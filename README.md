@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">👩‍💻 Negin Ra</h1>
+<p align="center">
+Software Test Engineer • Web Developer Enthusiast  
+</p>
 
-<!--
-**ngiinra/ngiinra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ✨ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 I'm a Computer Engineering graduate focused on software testing and front-end development.  
+🧠 I enjoy working in agile teams, writing automation tests, and exploring modern JavaScript frameworks.  
+🌱 Currently learning and practicing React, Tailwind CSS, and Redux Toolkit.  
+
+---
+
+## 🚀 Skills
+
+| Skill              | Level     | Visual     |
+|--------------------|-----------|------------|
+| HTML               | Good      | ▓▓▓▓▓▓▓▓░░ 90% |
+| CSS / Tailwind CSS | Moderate  | ▓▓▓▓▓░░░░░ 60% |
+| PHP                | Moderate  | ▓▓▓▓▓▓▓░░░ 70% |
+| JavaScript         | Moderate  | ▓▓▓▓▓░░░░░ 60% |
+| React JS           | Beginner  | ▓▓░░░░░░░ 30% |
+| Redux Toolkit      | Beginner  | ▓▓░░░░░░░ 30% |
+| Git                | Moderate  | ▓▓▓▓░░░░░ 50% |
+| Selenium / Mocha   | ✅        | Automated Testing |
+| Blackbox Testing   | ✅        | Functional Testing |
+| Microsoft Azure    | ✅        | Test Case Tracking |
+
+---
+
+## 🛠️ Current Role
+
+**Software Test Engineer**  
+Working with HR software platforms, writing regression tests using JavaScript, Mocha, and Selenium. Collaborating in agile teams and reviewing automated tests with peers.
